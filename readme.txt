@@ -21,6 +21,8 @@ user will receive an email with a diploma attached.
 
 Please follow the [standard installation procedure for WordPress plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 
+Make sure you also have installed TCPDF plugin, or pdf files will not be generated.
+
 == Frequently Asked Questions ==
 
 Please use the support forum for questions.
