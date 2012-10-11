@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Courseware Certificate
-Plugin URI: http://wordpress.org/extend/plugins/courseware-certificate/
+Plugin Name: BuddyPress Courseware Certificate
+Plugin URI: http://wordpress.org/extend/plugins/buddypress-courseware-certificate/
 Description: Issue a certificate upon completing BuddyPress Courseware assignments.
 Version: 0.1
 Author: sushkov
-Author URI: http://wordpress.org/extend/plugins/courseware-certificate/
+Author URI: http://wordpress.org/extend/plugins/buddypress-courseware-certificate/
 */
 ?>
 <?php
